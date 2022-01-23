@@ -123,13 +123,9 @@ nav ul li img {
 }
 .card-image {
     height: 160px;
-    /* filter: invert(48%) sepia(5%) saturate(32077890%) hue-rotate(680deg) brightness(85%) contrast(80%); */
-    filter: invert(48%) sepia(5%) saturate(32077%) hue-rotate(02deg) brightness(85%) contrast(80%);
-
 }
 .burger-image {
-    height: 140px;
-    filter: invert(48%) sepia(5%) saturate(32077%) hue-rotate(02deg) brightness(85%) contrast(80%);
+    height: 160px;
 }
 .card-title {
     color: #861313;
